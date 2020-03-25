@@ -221,9 +221,9 @@ font-size: 13pt;
 
 #mainmenu li a.selected  {
   background: #23A0DE;
-  -webkit-box-shadow: 0 -4px 0 #23A0DE, 0 -5px 0 #b81c40, 0 -6px 0 #23A0DE;
-  -moz-box-shadow: 0 -4px 0 #23A0DE, 0 -5px 0 #b81c40, 0 -6px 0 #23A0DE;
-  box-shadow: 0 -4px 0 #23A0DE, 0 -5px 0 #b81c40, 0 -6px 0 #23A0DE;
+  -webkit-box-shadow: 0 -4px 0 #23A0DE, 0 -6px 0 #23A0DE;
+  -moz-box-shadow: 0 -4px 0 #23A0DE, 0 -6px 0 #23A0DE;
+  box-shadow: 0 -4px 0 #23A0DE, 0 -6px 0 #23A0DE;
   color: #ffffff;
 }
 #mainmenu .active > a:hover {
