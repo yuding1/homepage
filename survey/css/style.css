@@ -1,0 +1,26 @@
+body{
+	font-family: "Times New Roman";
+}
+iframe{
+	width: 100%;
+	height: 100%;
+}
+.container{
+	height: 100vh;
+}
+.title{
+	height: 10vh;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+.description{
+	height: 10vh;
+}
+.story{
+	height: 50vh;
+	overflow-y: scroll;
+}
+.survey{
+	height: 30vh;
+}
