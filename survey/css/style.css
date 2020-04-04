@@ -18,9 +18,13 @@ iframe{
 	height: 10vh;
 }
 .story{
-	height: 50vh;
+	height: 35vh;
 	overflow-y: scroll;
 }
 .survey{
-	height: 30vh;
+	height: 80vh;
+}
+.subtitle{
+	height: 5vh;
+	font-weight: bold;
 }
