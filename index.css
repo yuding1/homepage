@@ -45,7 +45,7 @@ h3 {
   font-variant: normal;
   font-size: 16pt;
   text-align: left;
-  color: #23A0DE;
+  color: #1185CF;
   border-bottom: 1px solid #36322f;
 }
 
@@ -55,7 +55,7 @@ h3 {
   font-weight: normal;
   font-size: 14pt;
   text-align: left;
-  color: #23A0DE; 
+  color: #1185CF; 
   padding-bottom: 1px;
 }
 
@@ -65,7 +65,7 @@ h3 {
   font-weight: normal;
   font-size: 14pt;
   text-align: left;
-  color: #23A0DE; 
+  color: #1185CF; 
   padding-bottom: 1px;
 }
 
@@ -73,7 +73,7 @@ h3 {
   font-variant: normal;
   font-weight: normal;
   text-align: left;
-  color: #23A0DE; 
+  color: #1185CF; 
 }
 
 .myinfo{
@@ -221,10 +221,10 @@ font-size: 13pt;
 }
 
 #mainmenu li a.selected  {
-  background: #23A0DE;
-  -webkit-box-shadow: 0 -4px 0 #23A0DE, 0 -6px 0 #23A0DE;
-  -moz-box-shadow: 0 -4px 0 #23A0DE, 0 -6px 0 #23A0DE;
-  box-shadow: 0 -4px 0 #23A0DE, 0 -6px 0 #23A0DE;
+  background: #1185CF;
+  -webkit-box-shadow: 0 -4px 0 #1185CF, 0 -6px 0 #1185CF;
+  -moz-box-shadow: 0 -4px 0 #1185CF, 0 -6px 0 #1185CF;
+  box-shadow: 0 -4px 0 #1185CF, 0 -6px 0 #1185CF;
   color: #ffffff;
 }
 #mainmenu .active > a:hover {
